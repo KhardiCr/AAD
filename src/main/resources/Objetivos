@@ -1,0 +1,11 @@
+Crear la Base de datos -- Check
+
+Agregar Productos desde dummyjson.com/products -- Check
+
+Agregar una serie Empleados y Pedidos mediante Statement. pedidos con FK sobre productos -- Check
+
+Mostrar por consola mediante querys todos los empleados, productos y pedidos. -- non
+
+Mostrar aquellos productos que tengan un precio inferior a 600€ -- Check
+
+Insertar en productos_fav los que tengan un valor superior a 1000€ -- Check
